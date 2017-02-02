@@ -45,7 +45,8 @@ External Libraries
    * Commit included: <https://github.com/shiena/ansicolor/commit/a422bbe96644373c5753384a59d678f7d261ff10>
    * License: [MIT](https://en.wikipedia.org/wiki/MIT_License)
    * Description: Coloring of command prompt, including Windows 10.
- * **gopsutil**
+ * **gopsutil** -> PULLED: MAJOR DEPENDENCIES WILL RESOLVE LATER VIA VENDOR
    * Source: <https://github.com/shirou/gopsutil>
    * Commit Included: <https://github.com/shirou/gopsutil/commit/77b5d0080adb6f028e457906f1944d9fcca34442>
    * License: [BSD-3-Clause](https://en.wikipedia.org/wiki/BSD_licenses#3-clause_license_.28.22Revised_BSD_License.22.2C_.22New_BSD_License.22.2C_or_.22Modified_BSD_License.22.29)
+ * **go-disk-usage** -> Quick replacement until gopsutil resolved
