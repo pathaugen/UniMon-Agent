@@ -33,7 +33,7 @@ Feature List
  * Single binary with no dependencies
  * Cross platform: Windows/macOS/Linux
  * Connects to UniMon server API endpoint specified
- * Streams hardware stats to UniMon
+ * Streams hardware stats to [UniMon](https://github.com/pathaugen/UniMon)
 
 ---------- ---------- ---------- ---------- ----------
 
