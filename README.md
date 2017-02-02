@@ -50,3 +50,6 @@ External Libraries
    * Commit Included: <https://github.com/shirou/gopsutil/commit/77b5d0080adb6f028e457906f1944d9fcca34442>
    * License: [BSD-3-Clause](https://en.wikipedia.org/wiki/BSD_licenses#3-clause_license_.28.22Revised_BSD_License.22.2C_.22New_BSD_License.22.2C_or_.22Modified_BSD_License.22.29)
  * **go-disk-usage** -> Quick replacement until gopsutil resolved
+   * Source:
+   * Commit Included:
+   * License:
