@@ -18,7 +18,8 @@ import (
 	"io"
 	"os"
 
-	"github.com/shiena/ansicolor"
+	//"github.com/shiena/ansicolor"
+	"ansicolor"
 )
 
 func main() {
